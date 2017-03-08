@@ -1,0 +1,18 @@
+PODS:
+  - CardIO (5.4.1)
+  - Stripe (9.4.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - CardIO
+  - Stripe
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Stripe: 0957cc85df5c3df153e6fb44d307ea4b778b6bd1
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 9dea599373c3a9c6689f19333aee3d1fb2979a44
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Stripe-iOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Stripe-Stripe.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Stripe.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>034F63FE8A02F5371376E339C27FC0F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC49F2B43ACAF5407AED16DFB417E710</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE99C6C7F9185075551E7EF8015C7D0D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FF9E1A363507DBA7943CB94BE86B02FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
